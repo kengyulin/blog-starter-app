@@ -1,1 +1,1 @@
-this is version control system
+this is a distribution version control system of Apache
