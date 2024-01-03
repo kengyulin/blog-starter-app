@@ -1,1 +1,0 @@
-this is a distribution version control system of Apache
